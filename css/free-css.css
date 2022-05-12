@@ -1,0 +1,54 @@
+.img-block-free {
+    margin-top: 150px;
+    margin-left: 70px;
+}
+.a-menu-page3 {
+    text-decoration: none;
+    color: #1C1B1E;
+}
+.menu-textpage1 {
+    width: 324px;
+    height: 60px;
+    font-family: 'Popins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 60px;
+    color: #000000;
+    letter-spacing: 0.05em;
+}
+.menu-textpage2 {
+    margin-top: 60px;
+    width: 615px;
+    height: 330px;
+    font-family: 'Popins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 30px;
+    color: #000000;
+    letter-spacing: 0.05em;
+    font-size: 16px;
+    opacity: 0.7;
+}
+.a-menu-page3 {
+    font-family: 'Popins', sans-serif;
+    width: 99px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0.05em;
+    color: #1C1B1E;
+    padding: 20px 23px;
+}
+.btn-block-free {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background: transparent;
+    border: 1px solid #1C1B1E;
+    border-radius: 40px;
+}
+.text-mnl {
+    margin-left: 730px;
+    margin-top: -550px;
+}

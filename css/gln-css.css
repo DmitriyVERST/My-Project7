@@ -1,0 +1,139 @@
+body {
+    width: 1440px;
+    height: 4780px;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.a-button-gln {
+    color: #fdfffd;
+    text-decoration: none;
+}
+.slk-menu {
+    margin-top: -870px;
+    margin-left: 51px;
+}
+.gln-slk {
+    color: #FFF;
+    font-size: 14px;
+    line-height: 21px;
+    padding-left: 50px;
+    text-decoration: unset;
+    font-family: 'Popins', sans-serif;
+}
+.gln-slk:hover {
+    text-decoration: underline;
+}
+.glnn-button {
+    margin-left: 40px;
+    color: #fff;
+    font-size: 14px;
+    line-height: 21px;
+    padding: 7px 20px;
+    background: transparent;
+    font-family: 'Popins', sans-serif;
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 30px;
+}
+.loi {
+    margin-top: -40px;
+    margin-left: 650px;
+}
+.p-text-meu {
+    color: #fff;
+    font-size: 18px;
+    line-height: 25px;
+    font-weight: 400;
+    font-family: 'Popins', sans-serif;
+}
+.pdf {
+    position: absolute;
+    top: 193px;
+    left: 169px;
+    width: 4px;
+    height: 4px;
+    background-color: #fff;
+}
+.fide {
+    margin-left: 20px;
+}
+.h1-text-meu {
+    margin-top: 25px;
+    width: 550px;
+    height: 210px;
+    
+    color: #fff;
+    font-family: 'Popins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 66px;
+    line-height: 70px;
+}
+.h-text-meu {
+    margin-top: -14px;
+    font-family: 'Popins', sans-serif;
+    color: #fff;
+    opacity: 0.7;
+    width: 505px;
+    height: 78px;
+    left: 127px;
+    top: 478px;
+
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+}
+.button-text-meu {
+    padding: 10px 34px;
+    font-family: 'Popins', sans-serif;
+    line-height: 21px;
+    font-size: 14px;
+    color: #fff;
+    background: linear-gradient(265.37deg, #9224D6 -49.74%, #BD87DE 116.53%);
+    border-radius: 30px;
+    border: 1px solid #9224D6;
+}
+.slk-but {
+    text-decoration: unset;
+    color: #fff;
+}
+.button-text-meu2 {
+    margin-left: 23px;
+    background: transparent;
+    color: #fff;
+    border-radius: 30px;
+    border: 1px solid #fff;
+    padding: 10px 34px;
+}
+.h3-text-menu {
+    margin-top: 63px;
+    font-family: 'Popins', sans-serif;
+    color: #fff;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0.13em;
+}
+.img-text-meu {
+    margin-top: 15px;
+    padding-left: 17px;
+}
+.img-fi {
+    margin-left: -16px;
+}
+.text-gln-menu {
+    margin-left: 51px;
+    margin-top: 100px;
+}
+.gln-izo {
+    margin-top: -560px;
+    margin-left: 660px;
+}
+.text {
+    margin-top: 190px;
+    margin-left: 70px;
+    font-family: 'Popins', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}

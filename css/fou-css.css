@@ -1,0 +1,47 @@
+.imf-block-fou {
+    margin-top: 203px;
+    margin-left: 70px;
+}
+.images-blk-fou {
+    padding-left: 30px;
+}
+.text-blockfoy {
+    width: 122px;
+    height: 53px;
+    font-family: 'Popins', sans-serif;
+    font-size: 35px;
+    line-height: 52px;
+    letter-spacing: 0.05em;
+    color: #000000;
+    margin-top: 80px;
+    margin-left: 23px;
+}
+.block-fou1 {
+    position: absolute;
+    margin-left: 100px;
+}
+.mlk-text2 {
+    margin-left: 410px;
+}
+.mlk-text3 {
+    margin-left: 820px;
+}
+.h1-block-fou {
+    font-family: 'Popins', sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 38px;
+    letter-spacing: 0.05em;
+    color: #000000;
+}
+.p-block-fou {
+    margin-top: -10px;
+    font-family: 'Popins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #000000;
+    opacity: 0.7;
+}

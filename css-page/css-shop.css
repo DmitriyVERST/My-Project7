@@ -1,0 +1,74 @@
+.text-menu-slk {
+    padding-top: 40px;
+    color: rgb(104, 100, 100);
+    text-decoration: none;
+    font-size: 24px;
+    font-family: 'Popins', sans-serif;
+    padding-left: 24px;
+}
+.text-menu-slk:hover {
+    text-decoration: underline;
+}
+.shop {
+    margin-top: 150px;
+}
+.rhk-shop {
+    opacity: .8;
+    z-index: -1;
+    margin-top: 5px;
+    padding-left: 90px;
+}
+.rhk-shop2 {
+    opacity: .8;
+    z-index: -1;
+    margin-top: 5px;
+    padding-left: 280px;
+}
+.rhk-shop3 {
+    opacity: .8;
+    z-index: -1;
+    margin-top: 5px;
+    padding-left: 300px;
+}
+.kart {
+    width: 370px;
+    height: 450px;
+    background-color: black;
+    
+}
+.kart2 {
+    margin-left: 490px;
+    margin-top: -447px;
+    width: 370px;
+    height: 450px;
+    background-color: black;
+    
+}
+.kart3 {
+    margin-left: 980px;
+    margin-top: -447px;
+    width: 370px;
+    height: 450px;
+    background-color: black;
+    
+}
+.kart-game {
+    margin-top: 100px;
+    position: absolute;
+}
+.btn-kart-shop {
+    margin-top: 30px;
+    margin-left: 130px;
+    background-color: #fff;
+    padding: 15px 33px;
+    color: black;
+    font-size: 18px;
+    border: 1px solid #fff;
+    border-radius: 24px;
+    opacity: .8;
+    z-index: -1;
+}
+.a-kpp {
+    text-decoration: none;
+    color: black;
+}
